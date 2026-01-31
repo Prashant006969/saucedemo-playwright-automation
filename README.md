@@ -49,3 +49,5 @@ This automation suite covers **5 critical end-to-end user flows:**
    ```bash
    git clone https://github.com/Prashant006969/saucedemo-playwright-automation.git
    cd saucedemo-playwright-automation
+npm install
+npx playwright install
